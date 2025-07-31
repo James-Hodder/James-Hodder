@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @James-Hodder 
-- 👀 I’m interested in outdoors programming and many other things, I do things a bit different when it comes to hobbbies and stuff but thats ok.
-- 🌱 I’m currently in the proccess of doing a BCIS(Bachelor of Computer and information sciences) Degree, I currently have less than a year of study left. So constantly on the lookout for jobs and exciting ventures. 
-- 💞️ I’m not sure what i will collaborate on. But i have up to second year studies in astronomy so if theres anything related to that that anyone needs some help on let me know. 
+- 👀 I’m interested in programming, homelabbing, network security and UI/UX design
+- 🌱 I’m currently in the proccess of doing a BCIS(Bachelor of Computer and information sciences) Degree, I currently have less than a year of study left. So i am on the lookout for jobs and exciting ventures. 
+- 💞️ I'm here to collaborate and work on solving problems that affect every day people and make the world a better place one line of code at a time
 - 📫 How to reach me, through social media, discord, email or on here. 
 
 <!---
